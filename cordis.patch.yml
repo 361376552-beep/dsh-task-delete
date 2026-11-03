@@ -1,0 +1,3 @@
+- insert:
+    - id: task-delete
+      name: '@local/dsh-task-delete'

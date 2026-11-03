@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Task Delete",
+    "description": "Adds a Delete task item to each sidebar session menu: archives through the workspace registry for instant removal, then moves session files into a recoverable local trash."
+  }
+}
